@@ -46,7 +46,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final List<ChatMessage> _messages = [];
   bool _isLoading = false;
 
-  final String _apiKey = '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';
+  final String _apiKey = 'hello fuck you ';
   final String _apiUrl = 'https://router.huggingface.co/v1/chat/completions';
   final String _model = 'meta-llama/Llama-3.2-1B-Instruct';
 
